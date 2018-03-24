@@ -1,0 +1,2 @@
+GUI/rviz_satellite:beginner_tutorials:husky/husky_control:husky/husky_description:husky/husky_msgs:husky/husky_navigation:husky/husky_ur5_moveit_config:husky_desktop/husky_desktop:husky_desktop/husky_viz:husky_simulator/husky_gazebo:husky_simulator/husky_simulator:ironman:rqt/rqt:rqt/rqt_gui:rqt/rqt_gui_cpp:rqt/rqt_gui_py:rqt/rqt_py_common:urdf
+-DCATKIN_DEVEL_PREFIX=/home/divya/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/divya/catkin_ws/install -G Unix Makefiles

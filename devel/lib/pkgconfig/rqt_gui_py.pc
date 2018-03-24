@@ -1,0 +1,8 @@
+prefix=/home/divya/catkin_ws/devel
+
+Name: rqt_gui_py
+Description: Description of rqt_gui_py
+Version: 0.5.0
+Cflags: 
+Libs: -L/home/divya/catkin_ws/devel/lib 
+Requires: 
